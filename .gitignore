@@ -26,3 +26,7 @@ __pycache__/
 *.iml
 *.ipr
 *.iws
+
+venv/
+
+.DS_Store
